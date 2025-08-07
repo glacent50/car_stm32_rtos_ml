@@ -42,3 +42,8 @@
 
 # Debug 폴더 무시
 Debug/
+
+# .settings 폴더 무시
+.settings/
+
+
