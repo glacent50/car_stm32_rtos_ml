@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# Debug 폴더 무시
+Debug/
